@@ -39,7 +39,7 @@
 
             /**
              * Apresentando no navegador (comando de saída) O <br> tem a função
-             * de PULAR uma linha O sinla de adição (+) tem a função de
+             * de PULAR uma linha o sinal de adição (+) tem a função de
              * concatenar textos (string)
              */
             out.print("int a = " + a + "<br>");
